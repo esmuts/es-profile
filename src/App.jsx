@@ -1,17 +1,23 @@
 import { useState } from "react";
 import "./App.css";
-
+// Imports resume data from JSON file.
+import resume from "./assets/resume.json";
 import Header from "./components/Header.jsx";
 import Display from "./components/Display.jsx";
 import Footer from "./components/Footer.jsx";
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [resumeSection, setResumeSection] = useState([]);
+
+  // Selects resume category based on menu item selection.
+  function handleMenuItemClick(menuItem) {
+    setResumeSection(resume[menuItem]);
+  }
 
   return (
     <div className="container">
-      <Header />
-      <Display />
+      <Header onMenuItemClick={handleMenuItemClick} />
+      <Display resumeSection={resumeSection} />
       <Footer />
     </div>
   );

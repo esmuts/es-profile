@@ -1,7 +1,19 @@
 .display {
-  grid-row: 2 / 12;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: burlywood;
+  grid-row: 2;
+  padding: 1rem;
+  font-family: "Source Code Pro", monospace;
+  font-style: italic;
+}
+
+.profile-pic {
+  max-width: 40%;
+}
+
+.display-list {
+  text-align: left;
+  list-style-type: none;
+}
+
+.display-list li {
+  padding: 0.5rem;
 }
