@@ -1,7 +1,8 @@
 /**
- * A static online resume by Eckard Smuts.
+ * A static online resume.
  *
- * I consulted the following sites for help:
+ * @author Eckard Smuts.
+ *
  *
  */
 
@@ -21,10 +22,26 @@ function App() {
     setResumeSection(resume[menuItem]);
   }
 
+  // Display component is wrapped in a div to allow ternary selection for
+  // intro message display --> Need to update navigation with Routes at some
+  // point.
+
   return (
     <div className="container">
       <Header onMenuItemClick={handleMenuItemClick} />
-      <Display resumeSection={resumeSection} />
+      <div>
+        {resumeSection.length === 0 ? (
+          <div className="intro-message">
+            <p>
+              “Dear future generations: Please accept our apologies. We were
+              rolling drunk on petroleum.”
+            </p>
+            <p>-- Kurt Vonnegut</p>
+          </div>
+        ) : (
+          <Display resumeSection={resumeSection} />
+        )}
+      </div>
       <Footer />
     </div>
   );

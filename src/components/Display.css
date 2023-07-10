@@ -6,15 +6,17 @@
 }
 
 .profile-pic {
-  max-width: 40%;
+  max-width: 40vmin;
   /* Shifts image horizontally to center of parent element */
   position: relative;
   left: 50%;
   transform: translateX(-50%);
+  padding: 2vmin;
 }
 
 .about-text {
   font-style: normal;
+  padding-top: 1rem;
 }
 
 .display-list {
@@ -23,5 +25,5 @@
 }
 
 .display-list li {
-  margin-top: 5vmin;
+  margin-top: 4vmin;
 }

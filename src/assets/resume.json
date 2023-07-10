@@ -1,9 +1,9 @@
 {
   "about": [
     {
-      "title": "I am a teacher, writer and researcher based in the Department of English at Stellenbosch University. Most of my work revolves around the intersections of ecological and social realities in literary texts. At the moment I am working on a project that explores alternative temporalities in a range of Southern African novels. When I can find the time, I love writing short stories and book reviews.",
-      "date": "",
-      "url": ""
+      "par1": "I am a teacher, writer and researcher based in the Department of English at Stellenbosch University. My work explores the intersection of social and ecological issues in literary texts. Currently, I am working on a book project that investigates alternative temporalities in a range of Southern African novels.",
+      "par2": "When I can find the time, I love writing short stories, and I try never to be too far away from the sea. Not too long ago, I completed a web development course (mostly JS/React, with some Java added for spice). Among other things, this page is an attempt to keep some of those coding skills alive :-)",
+      "par3": "Contact: eckards@sun.ac.za"
     }
   ],
   "academic": [
