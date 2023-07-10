@@ -1,3 +1,10 @@
+/**
+ * A static online resume by Eckard Smuts.
+ *
+ * I consulted the following sites for help:
+ *
+ */
+
 import { useState } from "react";
 import "./App.css";
 // Imports resume data from JSON file.

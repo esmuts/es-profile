@@ -1,19 +1,27 @@
 .display {
   grid-row: 2;
-  padding: 1rem;
+  padding: 3vmin;
   font-family: "Source Code Pro", monospace;
   font-style: italic;
 }
 
 .profile-pic {
   max-width: 40%;
+  /* Shifts image horizontally to center of parent element */
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.about-text {
+  font-style: normal;
 }
 
 .display-list {
   text-align: left;
-  list-style-type: none;
+  list-style-position: inside;
 }
 
 .display-list li {
-  padding: 0.5rem;
+  margin-top: 5vmin;
 }

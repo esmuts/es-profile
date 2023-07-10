@@ -11,8 +11,8 @@
 
 .container {
   display: grid;
-
-  grid-template-rows: 15vh minmax(70vh, auto) 15vh;
+  grid-template-rows: 15vh minmax(60vh, auto) 15vh;
+  gap: 5vmin;
 }
 
 /*

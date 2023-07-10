@@ -10,7 +10,7 @@ export default function Display({ resumeSection }) {
     ? (resumeItems = resumeSection.map((item, index) => (
         <div key={index + item.title.slice(0, 10)}>
           <img className="profile-pic" src={profilePic} />
-          <p>{item.title}</p>
+          <p className="about-text">{item.title}</p>
         </div>
       )))
     : // Otherwise maps resume section to JSX element list

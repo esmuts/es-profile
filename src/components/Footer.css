@@ -2,5 +2,10 @@
   grid-row: 3;
   display: flex;
   justify-content: center;
-  background-color: cornflowerblue;
+  align-items: center;
+}
+
+.footer a {
+  color: inherit;
+  padding: 0.5rem;
 }
