@@ -4,7 +4,6 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faTwitter } from "@fortawesome/free-brands-svg-icons";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faInstagram } from "@fortawesome/free-brands-svg-icons";
-import { faFacebook } from "@fortawesome/free-brands-svg-icons";
 
 export default function Footer() {
   return (
@@ -18,7 +17,7 @@ export default function Footer() {
       <a href="https://twitter.com/eckardsmuts">
         <FontAwesomeIcon icon={faTwitter} size="2x" />
       </a>
-      <a href="https://github.com/esmuts">
+      <a href="https://github.com/esmuts?tab=repositories">
         <FontAwesomeIcon icon={faGithub} size="2x" />
       </a>
     </div>

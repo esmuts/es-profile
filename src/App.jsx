@@ -1,5 +1,5 @@
 /**
- * A static online resume.
+ * A static online resume with a minimalist design.
  *
  * @author Eckard Smuts.
  *
@@ -19,7 +19,13 @@ function App() {
 
   // Selects resume category based on menu item selection.
   function handleMenuItemClick(menuItem) {
-    setResumeSection(resume[menuItem]);
+    setResumeSection(() => resume[menuItem]);
+  }
+
+  // Resets resumeSection array to [], which triggers a reload of the intro
+  // message in Display component.
+  function handleTitleClick() {
+    setResumeSection(() => []);
   }
 
   // Display component is wrapped in a div to allow ternary selection for
@@ -28,7 +34,10 @@ function App() {
 
   return (
     <div className="container">
-      <Header onMenuItemClick={handleMenuItemClick} />
+      <Header
+        onMenuItemClick={handleMenuItemClick}
+        onTitleClick={handleTitleClick}
+      />
       <div>
         {resumeSection.length === 0 ? (
           <div className="intro-message">

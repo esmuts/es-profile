@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: calc(1.5rem + 4vmin);
+  cursor: pointer;
 }
