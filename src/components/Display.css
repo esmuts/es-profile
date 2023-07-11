@@ -1,12 +1,12 @@
 .display {
   grid-row: 2;
   padding: 3vmin;
-  font-family: "Source Code Pro", monospace;
   font-style: italic;
 }
 
 .profile-pic {
-  max-width: 40vmin;
+  width: 100%;
+  max-width: 340px;
   /* Shifts image horizontally to center of parent element */
   position: relative;
   left: 50%;

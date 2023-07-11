@@ -1,9 +1,9 @@
 {
   "about": [
     {
-      "par1": "I am a teacher, writer and researcher based in the Department of English at Stellenbosch University. My work explores the intersection of social and ecological issues in literary texts. Currently, I am working on a book project that investigates alternative temporalities in a range of Southern African novels.",
-      "par2": "When I can find the time, I love writing short stories, and I try never to be too far away from the sea. Not too long ago, I completed a web development course (mostly JS/React, with some Java added for spice). Among other things, this page is an attempt to keep some of those coding skills alive :-)",
-      "par3": "Contact: eckards@sun.ac.za"
+      "par1": "I am a lecturer in the Department of English at Stellenbosch University. My work revolves around the intersection of social and ecological issues in literary texts. Currently, I am working on a book project that explores alternative temporalities in a range of Southern African novels. When I can find the time, I love writing short stories and book reviews, and I try to never be too far away from the sea.",
+      "par2": "Contact: eckards@sun.ac.za",
+      "par3": ""
     }
   ],
   "academic": [
@@ -67,17 +67,12 @@
       "url": "https://www.emerald.com/insight/content/doi/10.1108/EEMCS-05-2018-0078/full/html"
     },
     {
-      "title": "“Big picture view needed to tackle food crisis.” (report)",
+      "title": "“Big picture view needed to tackle food crisis.” (media report)",
       "date": "2017",
       "url": "https://globalnetwork.io/perspectives/2017/07/big-picture-view-needed-tackle-food-crisis"
     },
     {
-      "title": "“Cross-sector partnerships: The way of doing business.” (report)",
-      "date": "2017",
-      "url": "https://www.iol.co.za/business-report/opinion/cross-sector-partnerships-the-way-of-doing-business-10215481"
-    },
-    {
-      "title": "“Spring vir jou lewe!” / “Thrills and chills in Suicide Gorge.” (travel journalism)",
+      "title": "“Spring vir jou lewe!” / “Thrills and chills in Suicide Gorge.” (travel piece)",
       "date": "2017",
       "url": "https://www.netwerk24.com/Weg/Reis/spring-vir-jou-lewe-20170119"
     },
@@ -87,7 +82,7 @@
       "url": "https://doi.org/10.17159/tvl.v.54i1.30"
     },
     {
-      "title": "“Drought: The Material Immaterial.”",
+      "title": "“Drought: The Material Immaterial.” (environmental reflection)",
       "date": "2016",
       "url": "https://naturecritical.wordpress.com/2016/03/18/drought-the-material-immaterial/"
     },
@@ -97,7 +92,7 @@
       "url": "https://doi.org/10.4314/eia.v43i1.8"
     },
     {
-      "title": "“Review: Stellenbosch Dirt Colloquium.”",
+      "title": "“Review: Stellenbosch Dirt Colloquium.” (conference report)",
       "date": "2015",
       "url": "https://africainwords.com/2015/04/02/review-stellenbosch-dirt-colloquium-march-2015/"
     },
