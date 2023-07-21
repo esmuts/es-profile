@@ -1,12 +1,11 @@
 #root {
-  padding: 5vw;
-  padding-left: 7vw;
-  padding-right: 7vw;
+  padding: 7vw;
   text-align: center;
 }
 
 .container {
   display: grid;
+  gap: 3vmin;
   grid-template-rows: 15vh minmax(60vh, auto) 15vh;
 }
 
