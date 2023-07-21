@@ -9,11 +9,11 @@ export default function Nav({ onMenuItemClick }) {
       <li className="academic" onClick={() => onMenuItemClick("academic")}>
         Academic
       </li>
-      <li className="fiction" onClick={() => onMenuItemClick("fiction")}>
-        Fiction
+      <li className="talks" onClick={() => onMenuItemClick("talks")}>
+        Talks
       </li>
-      <li className="other" onClick={() => onMenuItemClick("other")}>
-        Other
+      <li className="stories" onClick={() => onMenuItemClick("stories")}>
+        Stories
       </li>
     </ul>
   );

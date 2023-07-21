@@ -1,135 +1,232 @@
 {
   "about": [
     {
-      "par1": "I am a lecturer in the Department of English at Stellenbosch University. My work considers the intersection of social and ecological issues in literary texts, focusing especially on postcolonial writing. Currently, I am working on a book project that explores alternative temporalities in a range of Southern African novels. When I can find the time, I love writing short stories, and I try to never be too far away from the sea.",
-      "par2": "Contact: eckards@sun.ac.za",
-      "par3": ""
+      "par1": "I am a lecturer in the Department of English at Stellenbosch University. My work considers the intersection of social and ecological issues in literary texts, focusing especially on postcolonial writing. Currently, I am absorbed in a long-term research project that explores alternative temporalities in a range of novels by Southern African writers, including Zoë Wicomb, Bessie Head, Nadine Gordimer, Imraan Coovadia, and J.M. Coetzee.",
+      "par2": "When I can find the time, I love writing short stories, and I try to never be too far away from the sea.",
+      "par3": "Contact: eckards@sun.ac.za"
     }
   ],
   "academic": [
     {
       "title": "“Elemental Humanity in Bessie Head’s When Rain Clouds Gather.”",
-      "journal": "English Studies in Africa",
+      "place": "English Studies in Africa",
       "date": "2023",
-      "url": "https://doi.org/10.1080/00138398.2023.2128490"
+      "url": "https://doi.org/10.1080/00138398.2023.2128490",
+      "tag": "research article"
     },
     {
       "title": "“From Apartheid to the Planetary Present: Breaching Time in Nadine Gordimer’s Something Out There.”",
-      "journal": "Social Dynamics",
+      "place": "Social Dynamics",
       "date": "2022",
-      "url": "https://doi.org/10.1080/02533952.2022.2085856"
+      "url": "https://doi.org/10.1080/02533952.2022.2085856",
+      "tag": "research article"
+    },
+    {
+      "title": "“Battling Ghosts From the Past and Building Walls: ‘An Island’ by Karen Jennings.”",
+      "place": "Daily Maverick",
+      "date": "2021",
+      "url": "https://www.dailymaverick.co.za/article/2021-10-17-battling-ghosts-from-the-past-and-building-walls-an-island-by-karen-jennings/",
+      "tag": "book review"
     },
     {
       "title": "“The ‘baboon boy’ of the Eastern Cape and the making of the human in South Africa.”",
-      "journal": "Social Dynamics",
+      "place": "Social Dynamics",
       "date": "2018",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/02533952.2018.1430477"
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/02533952.2018.1430477",
+      "tag": "research article"
+    },
+    {
+      "title": "“Die Chacma-ekspedisie: Heling pleks van verdeling (2016), by Marius Ackermann.”.",
+      "place": "Tydskrif vir Letterkunde",
+      "date": "2017",
+      "url": "https://doi.org/10.17159/tvl.v.54i1.30",
+      "tag": "book review"
     },
     {
       "title": "“J.M. Coetzee’s Age of Iron and the Poetics of Resistance.”",
-      "journal": "Journal of Commonwealth Literature",
+      "place": "Journal of Commonwealth Literature",
       "date": "2017",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/02533952.2018.1430477"
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/02533952.2018.1430477",
+      "tag": "research article"
+    },
+    {
+      "title": "“Drought: The Material Immaterial.”",
+      "place": "Nature Critical",
+      "date": "2016",
+      "url": "https://naturecritical.wordpress.com/2016/03/18/drought-the-material-immaterial/",
+      "tag": "critical reflection"
+    },
+    {
+      "title": "“J.M. Coetzee: Two Screenplays (2014), by J.M. Coetzee. Edited by Hermann Wittenberg.”",
+      "place": "English in Africa",
+      "date": "2016",
+      "url": "https://doi.org/10.4314/eia.v43i1.8",
+      "tag": "book review"
     },
     {
       "title": "“‘The Country of his Heart’: J.M. Coetzee, Wordsworth and the Karoo Farm.”",
-      "journal": "English in Africa",
+      "place": "English in Africa",
       "date": "2015",
-      "url": "https://www.ajol.info/index.php/eia/article/view/122983"
+      "url": "https://www.ajol.info/index.php/eia/article/view/122983",
+      "tag": "research article"
+    },
+    {
+      "title": "“Review: Stellenbosch Dirt Colloquium.”",
+      "place": "Africa in Words",
+      "date": "2015",
+      "url": "https://africainwords.com/2015/04/02/review-stellenbosch-dirt-colloquium-march-2015/",
+      "tag": "conference report"
+    },
+    {
+      "title": "“The Reactive (2014), by Masande Ntshanga.”",
+      "place": "Aerodrome",
+      "date": "2015",
+      "url": "http://bookslive.co.za/blog/2015/05/11/eckard-smuts-reviews-the-reactive-by-masande-ntshanga/",
+      "tag": "book review"
     },
     {
       "title": "“J.M. Coetzee and the Politics of Selfhood.”",
-      "journal": "English in Africa",
+      "place": "English in Africa",
       "date": "2012",
-      "url": "https://journals.co.za/content/iseaeng/39/1/EJC125856"
+      "url": "https://journals.co.za/content/iseaeng/39/1/EJC125856",
+      "tag": "research article"
+    },
+    {
+      "title": "“Rachel’s Blue (2013), by Zakes Mda”",
+      "place": "SLiP",
+      "date": "2014",
+      "url": "https://slipnet.co.za/view/reviews/mda-in-the-midwest/",
+      "tag": "book review"
     },
     {
       "title": "“Reading Through the Gates: Structure, Desire and Subjectivity in J.M. Coetzee’s Elizabeth Costello.”",
-      "journal": "English in Africa",
+      "place": "English in Africa",
       "date": "2009",
-      "url": "https://journals.co.za/content/iseaeng/36/2/EJC47986"
+      "url": "https://journals.co.za/content/iseaeng/36/2/EJC47986",
+      "tag": "research article"
     }
   ],
-  "fiction": [
+  "talks": [
+    {
+      "title": "““Animated terrain: From allegory to eco-materialism in Karen Jennings’s An Island.”",
+      "place": "EACLALS Triennal Conference, Université Sorbonne Nouvelle",
+      "date": "2023",
+      "url": "https://eaclals2023.sciencesconf.org/",
+      "tag": "conference presentation"
+    },
+    {
+      "title": "“Narrative structure and the politics of temporality in Imraan Coovadia’s A Spy in Time.”",
+      "place": "Researcher Seminar, Stellenbosch University",
+      "date": "2023",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7054738664991465472/",
+      "tag": "invited talk"
+    },
+    {
+      "title": "“Deep time and the Anthropocene: Radioactive waste – a case study.”",
+      "place": "Anthropocene Workshop, Stellenbosch University",
+      "date": "2022",
+      "url": "",
+      "tag": "*workshop session"
+    },
+    {
+      "title": "“Literary baboons in South Africa: Remapping the social and the natural.”",
+      "place": "Mellon Emerging Scholars Workshop, University of the Western Cape",
+      "date": "2020",
+      "url": "",
+      "tag": "*workshop session"
+    },
+    {
+      "title": "“Reformulating the ecological subject in Henrietta Rose-Innes’s Nineveh.”",
+      "place": "ACLA Conference, Georgetown University",
+      "date": "2019",
+      "url": "https://www.acla.org/sites/default/files/files/ACLA_2019_ProgramGuide.pdf",
+      "tag": "conference presentation"
+    },
+    {
+      "title": "“Body, affect and social critique: J.M. Coetzee and sport.”",
+      "place": "Travelling with Coetzee: Other Arts, Other Languages Conference, Oxford University",
+      "date": "2017",
+      "url": "https://new.talks.ox.ac.uk/talks/id/46639e35-965b-4b70-b222-8587c46b909d/",
+      "tag": "conference presentation"
+    },
+    {
+      "title": "“The ‘baboon boy’ and the making of the human in South Africa.”",
+      "place": "The Cultural Politics of Dirt in Africa Conference, Yale University",
+      "date": "2016",
+      "url": "https://african.macmillan.yale.edu/event/workshop-cultural-politics-dirt-africa",
+      "tag": "conference presentation"
+    },
+    {
+      "title": "“‘Activities with no parallel in the rest of creation’: J.M. Coetzee and sport.",
+      "place": "Coetzee's Other Arts Conference, University of the Western Cape",
+      "date": "2016",
+      "url": "http://www.coetzeecollective.net/events-2016.html",
+      "tag": "conference presentation"
+    },
+    {
+      "title": "“‘They have indeed become citizens of a large world’: Eugène Marais and the place of baboons.”",
+      "place": "AUETSA Conference, Rhodes University",
+      "date": "2015",
+      "url": "",
+      "tag": "*conference presentation"
+    },
+    {
+      "title": "“Eugène Marais and lowlife baboons.”",
+      "place": "Stellenbosch Dirt Colloquium, Stellenbosch University",
+      "date": "2015",
+      "url": "https://africainwords.com/2015/04/02/review-stellenbosch-dirt-colloquium-march-2015/",
+      "tag": "conference presentation"
+    },
+    {
+      "title": "“Crossing over with J.M. Coetzee’s The Childhood of Jesus.”",
+      "place": "CrossCurrents: Current Research in the Humanities Conference, University of Cape Town",
+      "date": "2013",
+      "url": "",
+      "tag": "conference presentation"
+    },
+    {
+      "title": "“How am I not myself? Coetzee and Rousseau.”",
+      "place": "Recognizing the Other: Discourses of Alterity in J.M. Coetzee and His Contexts Conference, Justus Liebig University",
+      "date": "2012",
+      "url": "https://gretaolsonorg.files.wordpress.com/2017/05/programmcoetzee.pdf",
+      "tag": "conference presentation"
+    },
+    {
+      "title": "“‘Now I am past shame’: J.M. Coetzee and the loss of dignity.”",
+      "place": "Current Research in the Humanities Conference, University of Cape Town",
+      "date": "2011",
+      "url": "",
+      "tag": "*conference presentation"
+    },
+    {
+      "title": "“The politics of selfhood in J.M. Coetzee’s Summertime.”",
+      "place": "AUETSA Conference, Rhodes University",
+      "date": "2011",
+      "url": "",
+      "tag": "*conference presentation"
+    },
+    {
+      "title": "“Romancing the farm: The resistance of landscape in the autobiographical fiction of J.M. Coetzee.”",
+      "place": "Current Research in the Humanities Conference, University of Cape Town",
+      "date": "2010",
+      "url": "",
+      "tag": "*conference presentation"
+    }
+  ],
+  "stories": [
     {
       "title": "“Let The Worms Have It.”",
-      "journal": "The Johannesburg Review of Books",
+      "place": "The Johannesburg Review of Books",
       "date": "2022",
-      "url": "https://johannesburgreviewofbooks.com/2022/12/20/fiction-issue-read-let-the-worms-have-it-a-new-short-story-by-eckard-smuts/"
+      "url": "https://johannesburgreviewofbooks.com/2022/12/20/fiction-issue-read-let-the-worms-have-it-a-new-short-story-by-eckard-smuts/",
+      "tag": "short fiction"
     },
     {
       "title": "“Home(TM).”",
-      "journal": "The Johannesburg Review of Books",
+      "place": "The Johannesburg Review of Books",
       "date": "2022",
-      "url": "https://johannesburgreviewofbooks.com/2022/05/02/new-short-fiction-home-by-eckard-smuts/"
-    }
-  ],
-  "other": [
-    {
-      "title": "“Battling Ghosts From the Past and Building Walls: ‘An Island’ by Karen Jennings.” (book review)",
-      "journal": "Daily Maverick",
-      "date": "2021",
-      "url": "https://www.dailymaverick.co.za/article/2021-10-17-battling-ghosts-from-the-past-and-building-walls-an-island-by-karen-jennings/"
-    },
-    {
-      "title": "“Silulo Ulutho Technologies: African social enterprise driving inclusive business practice.” (case study)",
-      "journal": "Emerald Emerging Markets Case Studies",
-      "date": "2019",
-      "url": "https://www.emerald.com/insight/content/doi/10.1108/EEMCS-05-2018-0078/full/html"
-    },
-    {
-      "title": "“Cross-sector partnerships can ensure benefits for all” (media report)",
-      "journal": "Business Day",
-      "date": "2017",
-      "url": "https://www.businesslive.co.za/bd/opinion/2017-07-17-cross-sector-partnerships-can-ensure-benefits-for-all/"
-    },
-    {
-      "title": "“Big picture view needed to tackle food crisis.” (media report)",
-      "journal": "Global Network Perspectives",
-      "date": "2017",
-      "url": "https://globalnetwork.io/perspectives/2017/07/big-picture-view-needed-tackle-food-crisis"
-    },
-    {
-      "title": "“Spring vir jou lewe!” / “Thrills and chills in Suicide Gorge.” (travel journalism)",
-      "journal": "Go!/Weg!",
-      "date": "2017",
-      "url": "https://www.netwerk24.com/Weg/Reis/spring-vir-jou-lewe-20170119"
-    },
-    {
-      "title": "“Die Chacma-ekspedisie: Heling pleks van verdeling (2016), by Marius Ackermann.” (book review).",
-      "journal": "Tydskrif vir Letterkunde",
-      "date": "2017",
-      "url": "https://doi.org/10.17159/tvl.v.54i1.30"
-    },
-    {
-      "title": "“Drought: The Material Immaterial.” (environmental reflection)",
-      "journal": "Nature Critical",
-      "date": "2016",
-      "url": "https://naturecritical.wordpress.com/2016/03/18/drought-the-material-immaterial/"
-    },
-    {
-      "title": "“J.M. Coetzee: Two Screenplays (2014), by J.M. Coetzee. Edited by Hermann Wittenberg.” (book review). ",
-      "journal": "English in Africa",
-      "date": "2016",
-      "url": "https://doi.org/10.4314/eia.v43i1.8"
-    },
-    {
-      "title": "“Review: Stellenbosch Dirt Colloquium.” (conference report)",
-      "journal": "Africa in Words",
-      "date": "2015",
-      "url": "https://africainwords.com/2015/04/02/review-stellenbosch-dirt-colloquium-march-2015/"
-    },
-    {
-      "title": "“The Reactive (2014), by Masande Ntshanga.” (book review)",
-      "journal": "Aerodrome",
-      "date": "2015",
-      "url": "http://bookslive.co.za/blog/2015/05/11/eckard-smuts-reviews-the-reactive-by-masande-ntshanga/"
-    },
-    {
-      "title": "“Rachel’s Blue (2013), by Zakes Mda” (book review)",
-      "journal": "SLiP",
-      "date": "2014",
-      "url": "https://slipnet.co.za/view/reviews/mda-in-the-midwest/"
+      "url": "https://johannesburgreviewofbooks.com/2022/05/02/new-short-fiction-home-by-eckard-smuts/",
+      "tag": "short fiction"
     }
   ]
 }

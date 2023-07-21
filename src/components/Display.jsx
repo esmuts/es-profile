@@ -11,14 +11,15 @@ export default function Display({ resumeSection }) {
         <div key={index + item.par1.slice(0, 10)}>
           <img className="profile-pic" src={profilePic} />
           <p className="about-text">{item.par1}</p>
-          <p className="about-text">{item.par2}</p>
+          <p className="about-text"><i>{item.par2}</i></p>
           <p className="about-text">{item.par3}</p>
         </div>
       )))
     : // Otherwise maps resume section to JSX element list
       (resumeItems = resumeSection.map((item, index) => (
         <li key={index + item.url.slice(8, 18)}>
-          {item.title} <a href={item.url}> {item.journal}</a>, {item.date}
+          {item.title} {item.place}, {item.date}. (
+          <a href={item.url}>{item.tag}</a>)
         </li>
       )));
   return (
