@@ -3,7 +3,7 @@ import profilePic from "../assets/profile-square.jpeg";
 
 export default function Display({ resumeSection }) {
   let resumeItems = [];
-  
+
   // Checks props array length to determine if it is the "about" section, which
   // has a length of precisely 1, in which case image + about text is rendered.
   resumeSection.length === 1
@@ -18,8 +18,7 @@ export default function Display({ resumeSection }) {
     : // Otherwise maps resume section to JSX element list
       (resumeItems = resumeSection.map((item, index) => (
         <li key={index + item.url.slice(8, 18)}>
-          {item.title}
-          <a href={item.url}> ({item.date})</a>
+          {item.title} <a href={item.url}> {item.journal}</a>, {item.date}
         </li>
       )));
   return (
