@@ -1,7 +1,7 @@
 {
   "about": [
     {
-      "par1": "I am a lecturer in the Department of English at Stellenbosch University. My work considers the intersection of social and ecological issues in literary texts, focusing especially on postcolonial writing. Currently, I am absorbed in a long-term research project that explores alternative temporalities in a range of novels by Southern African writers, including Zoë Wicomb, Bessie Head, Nadine Gordimer, Imraan Coovadia, and J.M. Coetzee.",
+      "par1": "I am a lecturer in the Department of English at Stellenbosch University. My work considers the intersection of social and ecological issues in literary texts, focusing especially on postcolonial writing. My current research project explores alternative temporalities in a range of novels by Southern African writers, including Zoë Wicomb, Bessie Head, Nadine Gordimer, Imraan Coovadia, and J.M. Coetzee. Recent writing has appeared in Social Dynamics, English Studies in Africa, Daily Maverick and the Johannesburg Review of Books.",
       "par2": "When I can find the time, I love writing short stories, and I try to never be too far away from the sea.",
       "par3": "Contact: eckards@sun.ac.za"
     }
@@ -108,7 +108,7 @@
   ],
   "talks": [
     {
-      "title": "““Animated terrain: From allegory to eco-materialism in Karen Jennings’s An Island.”",
+      "title": "“Animated terrain: From allegory to eco-materialism in Karen Jennings’s An Island.”",
       "place": "EACLALS Triennal Conference, Université Sorbonne Nouvelle",
       "date": "2023",
       "url": "https://eaclals2023.sciencesconf.org/",
@@ -116,7 +116,7 @@
     },
     {
       "title": "“Narrative structure and the politics of temporality in Imraan Coovadia’s A Spy in Time.”",
-      "place": "Researcher Seminar, Stellenbosch University",
+      "place": "Research Seminar, Stellenbosch University",
       "date": "2023",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7054738664991465472/",
       "tag": "invited talk"
@@ -213,20 +213,20 @@
       "tag": "*conference presentation"
     }
   ],
-  "stories": [
+  "fiction": [
     {
       "title": "“Let The Worms Have It.”",
       "place": "The Johannesburg Review of Books",
       "date": "2022",
       "url": "https://johannesburgreviewofbooks.com/2022/12/20/fiction-issue-read-let-the-worms-have-it-a-new-short-story-by-eckard-smuts/",
-      "tag": "short fiction"
+      "tag": "short story"
     },
     {
       "title": "“Home(TM).”",
       "place": "The Johannesburg Review of Books",
       "date": "2022",
       "url": "https://johannesburgreviewofbooks.com/2022/05/02/new-short-fiction-home-by-eckard-smuts/",
-      "tag": "short fiction"
+      "tag": "short story"
     }
   ]
 }

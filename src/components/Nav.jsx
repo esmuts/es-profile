@@ -12,8 +12,8 @@ export default function Nav({ onMenuItemClick }) {
       <li className="talks" onClick={() => onMenuItemClick("talks")}>
         Talks
       </li>
-      <li className="stories" onClick={() => onMenuItemClick("stories")}>
-        Stories
+      <li className="fiction" onClick={() => onMenuItemClick("fiction")}>
+        Fiction
       </li>
     </ul>
   );
