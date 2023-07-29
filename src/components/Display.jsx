@@ -9,7 +9,7 @@ export default function Display({ resumeSection }) {
   resumeSection.length === 1
     ? (resumeItems = resumeSection.map((item, index) => (
         <div key={index + item.par1.slice(0, 10)}>
-          <img className="profile-pic" src={profilePic} />
+          <img className="profile-pic" src={profilePic} alt="profile picture" />
           <p className="about-text">{item.par1}</p>
           <p className="about-text">{item.par2}</p>
           <p className="about-text par3">{item.par3}</p>
